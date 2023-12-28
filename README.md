@@ -1,2 +1,1 @@
-# tmpl_zig
-A starter template for Zig
+# A starter template for Zig
